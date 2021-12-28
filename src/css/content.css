@@ -1,0 +1,92 @@
+
+
+.content-home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url("https://wi.wallpapertip.com/wsimgs/118-1180148_teclados-para-fondo-de-pantalla.jpg");
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 2s;
+}
+.content-home-min {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    /* background-image: url("https://wi.wallpapertip.com/wsimgs/118-1180148_teclados-para-fondo-de-pantalla.jpg"); */
+    border-color: black;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow:  1px 1px 10px 1px white;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px)
+}
+
+.min {
+    min-height: 30vh;
+    transition: 2s;
+}
+
+.boton {
+    padding: 10px;
+    margin-top: 30px;
+    border: solid 1px transparent;
+
+}
+
+
+
+
+
+
+
+
+@media (hover:hover) {
+
+    .ocultar:hover {
+        cursor: pointer;
+        color: red;
+    }
+
+    .content-home-min:hover {
+
+        animation-name: color;
+        animation-duration: 3s;
+        animation-iteration-count: infinite;
+        cursor: pointer;
+    }
+
+    @keyframes color {
+
+        0% { box-shadow:  1px 1px 10px 1px white}
+        25% { box-shadow:  1px 1px 10px 1px red}
+        50% { box-shadow:  1px 1px 10px 1px greenyellow}
+        75% {  box-shadow: 1px 1px 10px 1px #a03eff}
+        
+    }
+
+    .boton:hover {
+        cursor: pointer;
+        animation-name: click;
+        animation-duration: 2s;
+        animation-iteration-count: infinite;
+
+        
+    }
+
+    @keyframes click {
+
+        0% { border-bottom: solid 1px yellow;}
+        25% { border-right: solid 1px yellow;}
+        50% { border-top: solid 1px yellow;}
+        75% {  border-left: solid 1px yellow;}
+        
+    }
+    
+}
