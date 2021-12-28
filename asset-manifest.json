@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/camiloguzman/static/css/main.19ff0f90.css",
-    "main.js": "/camiloguzman/static/js/main.6d84b637.js",
+    "main.css": "/camiloguzman/static/css/main.92aaa26f.css",
+    "main.js": "/camiloguzman/static/js/main.86e0fd34.js",
     "static/media/Jeyson_Camilo_Guzman_Rico.pdf": "/camiloguzman/static/media/Jeyson_Camilo_Guzman_Rico.4422ee8e06fd95a5edd1.pdf",
-    "static/media/Reactsmall.png": "/camiloguzman/static/media/Reactsmall.05fcbd90109483c6bb81.png",
+    "static/media/aboutMe.svg": "/camiloguzman/static/media/aboutMe.03fc1e48cdb85932c1b10c32d301bcdc.svg",
     "index.html": "/camiloguzman/index.html",
-    "main.19ff0f90.css.map": "/camiloguzman/static/css/main.19ff0f90.css.map",
-    "main.6d84b637.js.map": "/camiloguzman/static/js/main.6d84b637.js.map"
+    "main.92aaa26f.css.map": "/camiloguzman/static/css/main.92aaa26f.css.map",
+    "main.86e0fd34.js.map": "/camiloguzman/static/js/main.86e0fd34.js.map"
   },
   "entrypoints": [
-    "static/css/main.19ff0f90.css",
-    "static/js/main.6d84b637.js"
+    "static/css/main.92aaa26f.css",
+    "static/js/main.86e0fd34.js"
   ]
 }
