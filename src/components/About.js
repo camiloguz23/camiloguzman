@@ -73,7 +73,7 @@ export const About = () => {
             <div className='conten-project'>
             <div>
                 <h4>Calendar with React and Node JS</h4>
-                <p>That application was created for solve a problem that is agendar citas of a person, this way is more easy more organized than of way writing in a paper or notebook because a paper or notebook getting can lose</p>
+                <p>That application was created for solve a problem that is schedule appointment citas of a person, this way is more easy more organized than of way writing in a paper or notebook because a paper or notebook getting can lose</p>
                 <div className='abajo'>
 
                     <a href='https://github.com/camiloguz23/calendarReact' className='enlaces'>Code <i className="fab fa-github"></i></a>
