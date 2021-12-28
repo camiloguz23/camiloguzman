@@ -213,4 +213,7 @@ footer a {
         flex-direction: column;
     }
     
+    .aboutMe {
+        width: 300px;
+    }
  }
