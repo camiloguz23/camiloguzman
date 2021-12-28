@@ -179,5 +179,9 @@ footer a {
         margin-bottom: 20px;
         
     }
+
+    footer a {
+        color: white;
+    }
     
  }
