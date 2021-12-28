@@ -109,5 +109,9 @@
         text-align: center;
     }
     
+    .waze {
+        height: 80px;
+        width: 100%;
+    }
     
 }
