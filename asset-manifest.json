@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/camiloguzman/static/css/main.f08d1ac3.css",
+    "main.js": "/camiloguzman/static/js/main.6d84b637.js",
+    "static/media/Jeyson_Camilo_Guzman_Rico.pdf": "/camiloguzman/static/media/Jeyson_Camilo_Guzman_Rico.4422ee8e06fd95a5edd1.pdf",
+    "static/media/Reactsmall.png": "/camiloguzman/static/media/Reactsmall.05fcbd90109483c6bb81.png",
+    "index.html": "/camiloguzman/index.html",
+    "main.f08d1ac3.css.map": "/camiloguzman/static/css/main.f08d1ac3.css.map",
+    "main.6d84b637.js.map": "/camiloguzman/static/js/main.6d84b637.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f08d1ac3.css",
+    "static/js/main.6d84b637.js"
+  ]
+}
