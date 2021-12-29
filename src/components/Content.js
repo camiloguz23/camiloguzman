@@ -24,7 +24,9 @@ export const Content = ({setinfo}) => {
             
 
             <div id='home' className={` content-home-min `} >
-                <h1>Jeyson Camilo Guzman Rico</h1>
+                <div className='invisible'>
+                    <h1>Jeyson Camilo Guzman Rico</h1>
+                </div>
                 <h2>Frontend developer</h2>
                 <h3>(REACT JS)</h3>
                 

@@ -20,7 +20,7 @@ export const About = () => {
             <div className='ancho text'>
                 <h3>About</h3>
                 <p>I am frontend developer with knowleged in React JS,Git, Redux, I learned from 2019 to program and since 2019 to current I made different course of programming and I am autodidact </p>
-                <a href={cv} download="JeysonGuzman" className='CV'>Dowload CV  <i class="fas fa-file-pdf"></i></a>
+                <a href={cv}  className='CV'>Dowload CV  <i class="fas fa-file-pdf"></i></a>
             </div>
             
         </div>
