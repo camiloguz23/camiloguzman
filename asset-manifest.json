@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/camiloguzman/static/css/main.a8c91745.css",
-    "main.js": "/camiloguzman/static/js/main.805ac976.js",
+    "main.css": "/camiloguzman/static/css/main.dbc39990.css",
+    "main.js": "/camiloguzman/static/js/main.107f531a.js",
     "static/media/Jeyson_Camilo_Guzman_Rico.pdf": "/camiloguzman/static/media/Jeyson_Camilo_Guzman_Rico.4257d2319c349f957325.pdf",
     "static/media/aboutMe.svg": "/camiloguzman/static/media/aboutMe.03fc1e48cdb85932c1b10c32d301bcdc.svg",
     "index.html": "/camiloguzman/index.html",
-    "main.a8c91745.css.map": "/camiloguzman/static/css/main.a8c91745.css.map",
-    "main.805ac976.js.map": "/camiloguzman/static/js/main.805ac976.js.map"
+    "main.dbc39990.css.map": "/camiloguzman/static/css/main.dbc39990.css.map",
+    "main.107f531a.js.map": "/camiloguzman/static/js/main.107f531a.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8c91745.css",
-    "static/js/main.805ac976.js"
+    "static/css/main.dbc39990.css",
+    "static/js/main.107f531a.js"
   ]
 }
