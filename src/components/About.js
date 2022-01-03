@@ -100,7 +100,7 @@ export const About = () => {
             </svg>
             <div>
                 <a href='https://github.com/camiloguz23'><i className="fab fa-github"></i></a> 
-                <a href='https://github.com/camiloguz23'><i className="fab fa-linkedin"></i></a> 
+                <a href='https://www.linkedin.com/in/jeysoncamiloguzmanrico/'><i className="fab fa-linkedin"></i></a> 
             </div>
         </footer>
         </>
