@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/camiloguzman/static/css/main.a18fadf3.css",
-    "main.js": "/camiloguzman/static/js/main.1850661f.js",
+    "main.js": "/camiloguzman/static/js/main.41fa017c.js",
     "static/media/Jeyson_Camilo_Guzman_Rico.pdf": "/camiloguzman/static/media/Jeyson_Camilo_Guzman_Rico.8df7a4d42668c118d32d.pdf",
+    "service-worker.js": "/camiloguzman/service-worker.js",
     "static/media/aboutMe.svg": "/camiloguzman/static/media/aboutMe.03fc1e48cdb85932c1b10c32d301bcdc.svg",
     "index.html": "/camiloguzman/index.html",
     "main.a18fadf3.css.map": "/camiloguzman/static/css/main.a18fadf3.css.map",
-    "main.1850661f.js.map": "/camiloguzman/static/js/main.1850661f.js.map"
+    "main.41fa017c.js.map": "/camiloguzman/static/js/main.41fa017c.js.map"
   },
   "entrypoints": [
     "static/css/main.a18fadf3.css",
-    "static/js/main.1850661f.js"
+    "static/js/main.41fa017c.js"
   ]
 }
